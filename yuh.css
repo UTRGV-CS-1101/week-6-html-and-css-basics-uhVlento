@@ -1,0 +1,12 @@
+* {
+    color: rgb(97, 16, 86);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.class {
+    color: green;
+}
