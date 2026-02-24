@@ -1,12 +1,25 @@
 * {
-    color: rgb(97, 16, 86);
+    height: auto;
+    max-width:100%;
 }
-
+head {
+    
+}
 h1 {
+    color:rgb(46, 97, 16)
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
 
-.class {
-    color: green;
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+h3 {
+    image-orientation: 0deg;
 }
